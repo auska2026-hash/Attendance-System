@@ -21,9 +21,9 @@ Please credit "0J (Lin Jie / 0rigin1856)" when redistributing or modifying this 
 
 const API_CONFIG = {
   // 正式環境的 API URL
-  apiUrl: "https://script.google.com/macros/s/AKfycbzvZPwRXNBfbsi9YICkDCu3lfTRjofMth_OwViQzGVGkoba-2yunqlHQluEp3QF_qzh/exec",
+  apiUrl: "https://script.google.com/macros/s/AKfycbycr2gvR6uVAWZ-ruSGrdWEchMozsPs1HW0SmXFkdhXioAnP4gB9g9Ufd2j61-zuQNWSA/exec",
   // 新增回呼網址
-  redirectUrl: "https://0rigind1865-bit.github.io/Attendance-System/"
+  redirectUrl: "https://auska2026-hash.github.io/Attendance-System/"
   // 你也可以在這裡加入其他設定，例如：
   // timeout: 5000,
   // version: 'v1.0'
